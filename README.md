@@ -1,4 +1,4 @@
-# <img src="https://github.com/haqqii/haqqii/blob/main/Hi_minions.gif" width="50px"> I'm Mohammad Ibadul Haqqi
+# <img src="https://github.com/haqqii/haqqii/blob/main/giphy (1).gif" width="50px"> I'm Mohammad Ibadul Haqqi
 
 <img align="right" alt="Programmer Gif" src="https://github.com/haqqii/haqqii/blob/main/programming.gif" width="350" />
 
@@ -15,7 +15,7 @@
 </p>
 
    - A <b>Website Developer</b>  <img src="https://github.com/haqqii/haqqii/blob/main/webDev.gif" width="30px" /> 
-   - A <b>IoT Engineer</b>  <img src="https://github.com/haqqii/haqqii/blob/main/webDev.gif" width="30px" /> 
+   - A <b>IoT Engineer</b>  <img src="https://media.giphy.com/media/DlbUO4wPJ0t5UG1DCo/giphy.gif" width="50px" /> 
 
 <br>
 
