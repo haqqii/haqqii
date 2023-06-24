@@ -27,8 +27,9 @@
 <h3 align="center">Support me: </h3>
 <p align="center">
    <a align="center" href="https://sociabuzz.com/kyhaa/tribe" target="_blank">
-      <img align="center" alt="Sociabuzz" src="sociabuzz.png"/>
+      <img align="center" alt="Sociabuzz" src="sociabuzz.png" width="20%"/> 
    </a> 
+</p>
 
    ------------
 
@@ -42,8 +43,5 @@
    </a> 
    <a align="center" href="mailto:ibadul.haqqi@gmail.com" target="_blank">
       <img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-   </a> 
-   <a align="center" href="https://sociabuzz.com/kyhaa/tribe" target="_blank">
-      <img align="center" alt="Gmail" src="sociabuzz.jpg" width="50px"/>
    </a> 
 </p>
