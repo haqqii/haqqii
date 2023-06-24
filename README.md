@@ -14,8 +14,8 @@
    </em>
 </p>
 
-   - A <b>Website Developer</b>  <img src="https://github.com/haqqii/haqqii/blob/main/webDev.gif" width="30px" /> 
-   - A <b>IoT Engineer</b>  <img src="https://media.giphy.com/media/DlbUO4wPJ0t5UG1DCo/giphy.gif" width="50px" /> 
+   - A <b>Website Developer</b>
+   - A <b>IoT Engineer</b> 
 
 <br>
 
