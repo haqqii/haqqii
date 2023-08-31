@@ -8,7 +8,7 @@
 
 <p>
    <em>
-    I am a undergraduate Information Technology student from <a href="https://www.its.ac.id/it/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.
+    I am a freshgraduate Information Technology student from <a href="https://www.its.ac.id/it/"> <b>Sepuluh Nopember Institute of Technology</b>, Surabaya</a>.
     A person who likes learning a new things, challenges, and targets for a goal.  <br/>
       Currently work and Enthusiast with :
    </em>
