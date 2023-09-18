@@ -15,7 +15,8 @@
 </p>
 
    - A <b>Website Developer</b>
-   - A <b>IoT Engineer</b> 
+   - A <b>IoT Engineer</b>
+   - A <b>Software Quality Assurance</b>
 
 <br>
 
