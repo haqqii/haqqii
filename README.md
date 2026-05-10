@@ -2,7 +2,8 @@
 
 <img align="right" alt="Programmer Gif" src="https://github.com/haqqii/haqqii/blob/main/programming.gif" width="350" />
 
-### **Hi there! you're a visitor :** ![Visitor Count](https://profile-counter.glitch.me/{haqqii}/count.svg)
+### Hi there! you're a visitor : ### 
+![Visitor Count](https://komarev.com/ghpvc/?username=haqqii&label=Profile%20Views&color=0e75b6&style=flat)
 
 <br>
 
